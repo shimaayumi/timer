@@ -4,7 +4,7 @@
 
 ## スクショ
 
-![カウントダウンタイマー](./assets/timer.png)
+<img src="./assets/timer.png" alt="カウントダウンタイマー" width="400">
 
 ## 使い方
 
